@@ -39,14 +39,7 @@
 "Where is the lunch meeting held?"
 예시 답변: "The meeting with the marketing team starts at 2 p.m., and the lunch meeting is held in the cafeteria."
 
-파트 5: 제안하기(Propose a Solution)
-설명: 문제 상황이 주어지고, 이에 대한 해결책을 제시하는 능력을 평가합니다. 문제 분석과 해결 방안 제시 능력이 중요합니다.
-
-예시 문제: 회사의 고객 서비스 센터에 문제가 생겨 고객 불만이 접수되었습니다. 이에 대한 해결책을 제안해 주세요.
-
-예시 답변: "To improve customer satisfaction, we could set up a dedicated helpline for urgent issues and hire additional staff to reduce waiting time. Additionally, providing online self-service options might also help reduce call volume."
-
-파트 6: 의견 제시 및 뒷받침(Speak About a Topic)
+파트 5: 의견 제시 및 뒷받침(Speak About a Topic)
 설명: 특정 주제에 대해 자신의 의견을 논리적으로 설명하는 능력을 평가합니다. 주제에 대한 이해와 논리적인 설명 능력이 중요합니다.
 
 예시 문제: "Do you agree or disagree with the statement: 'It's better to travel with friends than alone.' Give reasons for your answer."
